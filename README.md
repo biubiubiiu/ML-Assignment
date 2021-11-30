@@ -3,14 +3,14 @@ This repository contains my solutions to the assignments of the Machine Learning
 
 ### Contents
 
-* Assignment1: k-Nearest Neighbor classification on MNIST.
-* Assignment2: linear regression on Boston House Prices dataset, including:
-  * Ridge regression
-  * Lasso regression
-* Assignment3: linear classifiers on MNIST, including:
+* Assignment 1: k-Nearest Neighbor classification on MNIST.
+* Assignment 2: linear regression on Boston House Prices dataset, including:
+  * ridge regression
+  * lasso regression
+* Assignment 3: linear classifiers on MNIST, including:
   * least squares with regularization
   * logistic regression
-* Assignment4: MNIST classification with linear and nolinear SVM.
-* Assignment5
+* Assignment 4: MNIST classification with linear and nolinear SVM.
+* Assignment 5
   * Q1: MNIST classification with MLPNN (based on back-propagation).
   * Q2: Boston House Prices regression with SVM and MLPNN.
